@@ -1,0 +1,392 @@
+
+The Origin of Quantam Thoery 
+
+
+HAT IS A QUAN TUM THEORY ? 
+We have
+been asking that question for a long time, ever
+
+since Max Planck introduced the element of dis-
+
+continuity we call the quantum a century ago. Since then, the chunkiness of Nature (or at least of our theories about it) has been built into our basic conception of the world. It has prompted a fundamental rethinking of physical theory.At the same time it has helped make sense of a whole range of peculiar behaviors manifested principally at microscopic levels.
+
+From its beginning, the new regime was symbolized by Planck’s constant h, introduced in his famous paper of 1900. Measuring the world’s departure from smooth, continuous behavior, h proved to be a very small number, but different from zero. Wherever it appeared, strange phenomena came with it.
+What it really meant was of course mysterious. While the quantum era was
+inaugurated in 1900 , a quantum theory would take much longer to jell. Intro- ducing discontinuity was a tentative step, and only a first one. And even
+thereafter, the recasting of physical theory was hesitant and slow. Physicists pondered for years what a quantum theory might be. Wondering how to integrate it with the powerful apparatus of nineteenth-century physics, they also asked what relation it bore to existing, “classical” theories. For some the
+answers crystallized with quantum mechanics, the result of a quarter-
+century’s labor. Others held out for further rethinking. If the outcome was not to the satisfaction of all, still the quantum theory proved remarkably
+
+successful, and the puzzlement along the way , despite its frustrations, can only be called extraordinarily productive.
+
+ 
+IN TRODUCING h
+
+The stor y began inconspicuously enough on December 14, 1900 . Max Planck was giving a talk to the German Physical Society on the continuous spectrum of the frequencies of light emitted by an ideal heated body . Some two    months earlier this 42-year-old theorist had presented a formula capturing
+some new experimental results. Now, with leisure to think and mor e time at his disposal, he sought to provide a physical justification for his formula.
+Planck pictured a piece of matter, idealizing it somewhat, as equivalent to a collection of oscillating electric charges. He then imagined distributing its energy in discrete chunks propor tional to the frequencies of oscillation. The  constant of propor tionality he chose to call h; we would now write  = hf.
+The frequencies of oscillation determined the frequencies of the emitted light. A twisted chain of reasoning then  reproduced Planck’s postulated formula, which now involved the same natural constant h.
+ 
+
+Two theorists, Niels Bohr and Max Planck, at the blackboard. (Courtesy Emilio Segre`  Visual Archives, Margrethe Bohr Collection)
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+An ideal blackbody spectrum (Schwarzer Körper) and its real-world approximation (quartz). (From Clemens Schaefer, Einführung in die Theoretische Physik, 1932).
+
+
+
+
+
+
+
+
+
+ 
+
+Experimental setup for measuring black- body radiation. (The blackbody is the tube labeled C.) This design was a prod- uct of Germany’s Imperial Institute of Physics and Technology in Berlin, where studies of blackbodies were pursued with an eye toward industrial standards of luminous intensity. (From Müller- Pouillets Lehrbuch der Physik, 1929).
+ 
+Loo k i ng back o n the event, w e m ight expec t  revol ut io n ar y fanfar e. But as so often i n histor y, m a tters wer e m ore a m bigu- ous. Planck did not call his ener gy ele m ents quanta and was not inclined to stress their discreteness, which made little sense in any familiar terms. So the meaning of his pr ocedure only gradually be - came apparent. Although the proble m he was t r eating was pivotal in i ts day, i ts i m plications wer e at first thought to be confined.
+
+BLACK BODIES
+
+The behavior of light in i ts interaction with  m atter was indeed a key proble m of nineteenth-centur y physics. Planck  was inter est- ed in the two theories that overlapped in this domain. The first was
+electrodynamics, the theory of electricity , magnetism, and light waves, br ought to final form by James Clerk Maxwell in the 1870 s. The second, dating from roughly the same period, was ther m odynamics and statistical mechanics, governing transformations of energy and i ts behavior in t i m e. A pr essing question was whether these two grand theories could be fused into one, since they started from different funda m ental notions.
+Beginning in the mid- 1890 s, Planck took up a seemingly nar row proble m , the interaction of an oscillating char ge with i t s elec - t ro m agnetic field. These studies, however , brought hi m into con tact with a long tradition of work on the emission of light. Decades earlier i t had been recognized that perfectly absorbing (“ black”) bodies pr ovided a standard for e m ission as well. Then over the years a s m all i n d u s t r y h ad gro wn u p ar o un d th e s tu dy of s u c h objects (and their r eal-world substitutes, like soot). A s m all group of theorists occupied themselves with the thermodynamics of radiation, while a host of experi m enters labored over heated bod - ies t o fix t e mpera tu r e, de t er m i n e i nt e n si t y, a n d c h arac t erize deviations fr om blackbody ideality (see the graph above). After sci - entists pushed the practical realization of an old idea—that  a closed tube with a s m all hole constituted a near -ideal blackbody—this “ cavity radiation” allowed ever more reliable measure ments. (See illustration at left.)
+ 
+
+
+
+
+
+
+
+ 
+Now Planck’s oscillating char ges emitted and absorbed radiation, so they could be used to model a blackbody . Thus everything seemed to fall into place in 1899 when he reproduced a formula that a col league had derived by less secure means. That was convenient; every- one agreed that Willy Wien’s formula matched the observations. The trouble was that immediately after wards, experimenters began find ing deviations. At low frequencies, W ien’s expr ession beca me increasingly untenable, while elsewhere it continued to work well enough. Infor med of the results in the fall of 1900 , on short notice Planck came up with a reasonable interpolation. With its adjustable constants his for mula seemed to fit the experiments (see graph at right). Now the question became: Where might it come from? What was its physical meaning?
+
+As we saw, Planck managed to produce a derivation. T o get the
+right statistical results, however, he had to act as though the energy involved  were divided up into elements   = hf. The derivation  was a success and splendidly reproduced the experimental data. Its meaning was less clear. After all, Maxwell’s theory already gave a beautiful account of light—and treated i t as a wave traveling in a cont inuous medium. Planck did not take the constant h to indicate a physical discontinuity , a real atomicity of energy in a substantive sense. None of his colleagues made much of this possibility , either, until Albert Einstein took it up five years later .
+
+MAKING LIGHT QUANTA REAL
+
+Of Einstein’s three great papers of 1905, the one “On a Heuristic Point of View Concerning the Production and Transformation of Light” was the piece that the 26-year-old patent clerk labeled revolutionary. It was peculiar, he noted, that the electromagnetic theory of light assumed a continuum, while current accounts of matter started from discrete atoms. Could discontinuity be productive for light as well? However indispensable Maxwell’s equations might seem, for some interesting phenomena they proved inadequate. A key example was blackbody radiation, which Einstein now looked at in a way different from Planck. Here a rigorously classical treatment, he showed,  
+
+ 
+
+Experimental and theoretical results on the blackbody spectrum. The data points are experimental values; Planck’s formula is the solid line. (Reprinted from
+H. Rubens and F. Kurlbaum, Annalen der Physik, 1901.)
+ 
+
+
+ 
+Pieter Zeeman, Albert Einstein, and Paul Ehrenfest (left to right) in Zeeman’s Amsterdam laboratory. (Courtesy Emilio Segre` Visual Archives, W. F. Meggers Collection)
+ 
+yielded a result not only wrong but also absurd. Even where Wien’s law was approximately right (and Planck’s modification unnecessary), elementary thermodynamics forced light to behave as though it were localized in discrete chunks. Radiation had to be par celled into what Einstein called “energy quanta.” Today we would write E = hf.
+
+
+Discontinuity was thus endemic to the electromagnetic world. Interestingly, Einstein did not refer to Planck’s constant  h, believing  his approach to be different in spirit. Where Planck had looked at oscillating charges, Einstein applied thermodynamics to the light  itself. It was only later that Einstein went back and showed how Planck’s work implied real quanta. In the meantime, he offered a further, radical extension. If light behaves on its own as though com - posed of such quanta, then perhaps it is also emitted and absorbed in that fashion. A few easy considerations then yielded a law for the photoelectric effect, in which light ejects electrons from the surface of a metal. Einstein provided not only a testable hypothesis but also a new way of measuring the constant h (see table on the next page).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+Today the photoelectric effect can be checked in a college laboratory. In 1905, however, it was far from trivial. So it would remain
+
+
+
+
+
+
+
+ 
+for more than a decade. Even after Robert Millikan confirmed Einstein’s prediction, he and others balked at the underlying quantum hypothesis. It still violated everything known about light’s wave- like behavior (notably, interference) and hardly seemed reconcile able with Maxwell’s equations. When Einstein was awarded the Nobel Prize, he owed the honor largely to the photoelectric effect. But the citation specifically noted his discovery of the law, not the explanation that he proposed.
+The relation of the quantum to the wave theory of light would re- main a point of puzzlement. Over the next years Einstein would only sharpen the contradiction. As he showed, thermodynamics ineluctably required both classical waves and quantization. The two aspects were coupled: both were necessary, and at the same time. In the process, Einstein moved even closer to attributing to light a whole panoply of particulate properties. The particle-like quantum, later named the photon, would prove suggestive for explaining things like the scattering of X rays. For that 1923 discovery, Arthur Compton would win the Nobel Prize. But there we get ahead of the story. Before notions of wave-particle duality could be taken seriously, discontinuity had to demonstrate its worth elsewhere.
+
+BEYO N D LIGHT
+
+As i t turned out, the earliest welcome given to the new quantum concepts came in fields far removed from the troubled theories of radiation. The first of these domains, though hardly the most obvious, was the theory of specific heats. The specific heat of a substance determines how much of its energy changes when its temperature is raised. At low temperatures, solids display peculiar behavior. Here Einstein suspected—again we meet Einstein—that the deviance might be explicable on quantum grounds. So he reformulated Planck’s problem to handle a lattice of independently vibrating atoms. From this highly simplistic model, he obtained quite reasonable predictions that involved the same quantity hf, now translated into the solid- state context.
+
+
+There things stood for another three years. It took the sudden
+attention of the physical chemist Walther Nernst to bring quantum
+ 
+
+ 
+
+(From W. W. Coblentz, Radiation, Determination of the Constants and Verification of the Laws in A Dictionary of Applied Physics, Vol. 4, Ed. Sir Richard Glazebrook, 1923)
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The first Solvay Congress in 1911 assembled the pioneers of quantum theory. Seated (left to right): W. Nernst,
+M. Brillouin,
+E. Solvay,
+H. A. Lorentz,
+E. Warburg,
+J. Perrin, W. Wien,
+M. Curie,
+H. Poincaré. Standing (left to right):
+R. Goldschmidt,
+M. Planck,
+H. Rubens,
+A. Sommerfeld,
+F. Lindemann,
+M. de Broglie,
+M. Knudsen,
+F. Hasenöhrl,
+G. Hostelet,
+E. Herzen, J. Jeans,
+E. Rutherford,
+H. Kamerlingh Onnes, A. Einstein,
+P. Langevin. (From Cinquantenaire du Premier Conseil de Physique Solvay, 1911–1961).
+ 
+theories of specific heats to general significance. Feeling his way towards a new law of thermodynamics, Nernst not only bolstered Einstein’s ideas with experimental results, but also put them on the agenda for widespread discussion. It was no accident, and to a large degree Nernst’s doing, that the first Solvay Congress in 1911       dealt precisely with radiation theory and quanta (see photograph below). Einstein spoke on specific heats, offering additional co m ments on electromagnetic radiation. If the quantum was born in 1900, the Solvay meeting was, so to speak, its social debut.
+
+What only just begun to show up in the Solvay colloquy was the other main realm in which discontinuity would prove its value. The technique of quantizing oscillations applied, of course, to line spectra as well. In contrast to the universality of blackbody radiation, the discrete lines of light emission and absorption varied immensely from one substance to the next. But the regularities evident even in the welter of the lines provided fertile matter for quantum conjectures. Molecular spectra turned into an all-important site of research during
+
+
+ 
+
+
+
+
+
+
+
+ 
+the quantum’s second decade. Slower to take off, but ultimately even more productive, was the quantization of motions within the atom itself. Since no one had much sense of the atom’s constitution, the venture into atomic spectra was allied to speculative model-building. Unsurprisingly, most of the guesses of the early 1910 s turned out to be wrong. They nonetheless sounded out the possibilities. The orbital energy of electrons, their angular momentum (something like rotational inertia), or the frequency of their small oscillations about equilibrium: all these were fair game for quantization. The observed lines of the discrete spectrum could then be directly read off from the  electrons’ motions.
+
+THE BOHR MODEL OF THE A TOM
+
+It might seem ironic that Niels Bohr initially had no interest in spectra. He came to atomic structure indirectly. Writing his doctoral thesis on the electron theory of metals, Bohr had become fascinated by its failures and instabilities. He thought they suggested a new type of stabilizing force one fundamentally different from those familiar in classical physics. Suspecting the quantum was somehow implicated, he could not figure out how to work it into the theory.
+The intuition remained with him, however, as he transferred his postdoctoral attention from metals to Ruther ford’s atom. When it got started, the nuclear atom (its dense positive center circled by electrons) was simply one of several models on offer. Bohr began working on it during downtime in Ruther ford’s lab, thinking he could improve on its treatment of scattering. When he noticed that it ought to be unstable, however, his attention was captured for good. To stabilize the model by fiat, he set about imposing a quantum condition, according to the standard practice of the day. Only after a colleague directed his attention to spectra did he begin to think about their significance.
+The famous Balmer series of hydrogen was manifestly news to Bohr. (See illustration above.) He soon realized, however, that he could fit i t to his model—if he changed his model a bit. He reconceptualized light emission as a transition between discontinuous orbits, with the emitted frequency determined by E = hf. To get the
+ 
+
+
+The line spectrum of hydrogen. (From
+G. Herzberg, Annalen der Physik, 1927)
+ 
+
+
+
+
+
+
+
+
+
+orbits’ energies right, Bohr had to introduce some rather ad hoc rules. These he eventually justified by quantization of angular momentum, which now came in units of Planck’ s constant h. (He also used an interesting asymptotic argument that will resurface later .)
+Published in 1913, the resulting picture of the atom was rather odd. Not only did a quantum condition describe transitions between levels, but the “stationary states,” too, were fixed by nonclassical་fiat. Electrons certainly revolved in orbits, but their frequency of revolution had nothing to do with the emitted light. Indeed, their os cillations were postulated not to produce radiation. There was no predicting when they might jump between levels. And transitions generated frequencies according to a quantum relation, but Bohr proved hesitant to accept anything like a photon.
+The model, understandably, was not terribly persuasive—that  is, until new experimental results began coming in on X rays, energy levels, and spectra. What really convinced the skeptics was a small modification Bohr made. Because the nucleus is not held fixed in space, its mass enters in a small way into the spectral frequencies. The calculations produced a prediction that fit to 3 parts in 100,000 — pretty good, even for those days when so m any numerical coincidences proved to be misleading.
+The wheel made its final turn when Einstein connected the Bohr atom back to blackbody radiation. His famous papers on radiative transitions, so important for the laser (see following article by Charles Townes), showed the link among Planck’s blackbody law, discrete energy levels, and quantized emission and absorption of radiation. Einstein further stressed that transitions could not be predicted in anything more than a probabilistic sense. It was in these same papers, by the way, that he formalized the notion of particle-like quanta.
+
+THE OLD QUAN TUM THEOR Y
+
+What Bohr’s model provided, like Einstein’s account of specific heats, was a way to embed the quantum in a more general theory. In fact, the study of atomic structure would engender something plausibly called a quantum theory, one that began reaching towards a full-scale replacement for classical physics. The r elation between the old and
+ 
+
+
+
+Above: Bohr’s lecture notes on atomic physics, 1921. (Original source: Niels Bohr Institute, Copenhagen. From Owen Gingerich, Ed., Album of Science: The Physical Sciences in the Twentieth Century, 1989.)
+
+
+Left: Wilhelm Oseen, Niels Bohr, James Franck, Oskar Klein (left to right), and Max Born, seated, at the Bohr Festival in Göttingen, 1922. (Courtesy Emilio Segre`  Visual Archives, Archive for the History of Quantum Physics)
+
+
+the new became a key issue. For some features of Bohr’s model preserved classical theories, while others presupposed their break- down. Was this consistent or not? And why did it work?
+Till here: 
+By the late 1910 s physicists had refined Bohr’s model, providing a relativistic treatment of the electrons and introducing additional “quantum numbers.” The simple quantization condition on angular momentum could be broadly generalized. Then the techniques of nineteenth-century celestial mechanics provided powerful theoretical tools. Pushed forward by ingenious experimenters, spectroscopic studies provided ever more and finer data, not simply on the basic line spectra, but on their modulation by electric and magnetic fields. And abetted by their elders, Bohr, Arnold Sommerfeld, and Max Born, a generation of youthful atomic theorists cut their teeth on such problems. The pupils, including Hendrik Kramers, Wolfgang Pauli, Werner  Heisenber g, and Pascual Jordan, practiced a tight rope kind of theo rizing. Facing resistant experimental data, 
+they balanced the empirical
+evidence from the spectra against 
+the ambiguities of the prescriptions 
+for applying the quantum rules.
+
+Within this increasingly dense body of work, an interesting strategy began to jell. In treating any physical system, the first task was to identify the possible classical motions. Then atop these classical motions, quantum conditions would be imposed. Quantization became a regular procedure, making continual if puzzling reference back to classical results. In another way, too, classical physics served as a touchstone. Bohr’s famous “correspondence principle”
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paul Dirac and Werner Heisenberg in Cambridge, circa 1930. (Courtesy
+Emilio Segre`  Visual Archives, Physics Today Collection)
+ 
+
+first found application in his early papers, where it pro- vided a deeper justification of his quantization condition. In the “classical limit,” for large orbits with high quantum numbers and small differences in energy, the radiation from transitions between adjacent orbits should correspond to the classical radiation frequency. Quantum and classical results must match up. Employed with a certain Bohrian discrimination, the correspondence principle yielded detailed infor mation about spectra. It also helped answer the question: How do we build up a true quantum theory?
+Not that the solution was yet in sight. The old quantum theory’s growing sophistication made its failures ever plainer. By the early 1920 s the theorists found the m selves increasingly in difficulties. N o single problem was fatal, but their accu mulation was daunting. This feeling of crisis was not entirely unspecific. A group of atomic theorists, centered on Bohr, Born, Pauli, and Heisenberg, had come to suspect that the problems went back to electron trajectories. Perhaps it was possible to abstract from the orbits? Instead they focused on transition
+probabilities and emitted radiation, since those might be more reliably knowable. “At the moment,” Pauli still remarked in the spring of 1925 , “ physics is again very muddled; in any case, i t is far too difficult for me, and I wish I were a movie comedian or something of the sor t and had never hear d of physics.”
+
+QUAN TUM MECHANICS
+
+Discontinuity, abstraction from the visualizable, a positivistic turn towards observable quantities: these preferences indicated one path to a full quantum theory. So, however, did their opposites. When in 1925–1926 a true quantum mechanics was finally achieved, two seemingly distinct alter natives were on offer. Both took as a leitmotif the relation to classical physics, but they offered different ways of working out the theme.
+ 
+
+
+
+
+
+
+
+
+
+Heisenberg’s famous paper of 1925 , celebrated for launching the transformations to come, bore the title “On the Quantum-Theoretical Reinterpretation of Kinematical and Mechanical Relations.” The point of departure was Bohr’s tradition of atomic structure: discrete states remained fundamental, but now dissociated from intuitive representation. The transformative intent was even broader from the star t. Heisenberg translated classical notions into quantum ones in the best correspondence-principle style.  In his new quantum mechanics, familiar quantities behaved strangely; multiplication depended on the order of the terms. The deviations, however, were calibrated by Planck’s constant, thus gauging the departure from classical normality.
+
+Some greeted the new theory with elation; 
+others found i t unsatisfactory and disagreeable. For as elegant as Heisenberg’s translation might be, i t took a very partial view of the problems of the quantum. Instead of the quantum theory of atomic structure, one might also star t from the wave-particle duality. Here another young theorist, Louis de Broglie, had advanced a speculative proposal in 1923 that Heisenberg and his colleagues had made little of. Thinking over the discontinuous, particle-like aspects of light, de Broglie suggested looking for continuous, wave-like aspects of electrons. His notion, while as yet ungrounded in experimental evidence, did provide surprising insight into the quantum conditions for Bohr’s orbits. It also, by a sideways route, gave Erwin Schrödinger the idea for his brilliant papers of 1926 .
+
+Imagining the discrete allowed states of any system of particles as simply the s table for m s of continuous matter waves, Schrödinger sought connections to a well-developed branch of classical physics. The techniques of continuum m mechanics allowed him to formulate an equation for his waves. It too was built around the constant h. But now the basic concepts were different, and so also the fundamental meaning. Schrödinger had distaste for the discontinuity of Bohr’s atomic models and the lack of intuitive picturability of Heisenberg’s quantum mechanics. To his mind, the quantum did not imply any of these things. Indeed, i t showed the opposite: that the apparent atomicity of matter disguised an underlying continuum.
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Old faces and new at the 1927 Solvay Congress. The middle of the second row lines up Hendrik Kramers, Paul Dirac, Arthur Compton, and Louis de Broglie. Behind Compton stands Erwin Schrödinger, with Wolfgang Pauli and Werner Heisenberg next to each other behind Max Born. (From Cinquantenaire du Premier Conseil de Physique Solvay, 1911–1961)
+ 
+Thus a familiar model connected to physical intuition, but constituting matter of some ill-understood sort of wave, 
+confronted an abstract mathematics with seemingly bizarre variables, insistent about discontinuity and suspending space-time pictures. Unsurprisingly, the coexistence of alternative theories generated debate. The fact, soon demonstrated, of their mathematical equivalence did not resolve the interpretative dispute. For fundamentally different physical pictures were on offer.
+
+In fact, in place of Schrödinger’s matter waves and Heisenberg’s uncompromising discreteness, a conventional understanding settled
+in that somewhat split the difference. However,the thinking of the old quantum theory school still dominated. Born dematerialized Schrödinger’s waves, turning them into pure densities of probability for finding discrete particles. Heisenberg added his uncertainty principle, limiting the very possibility of measurement and under mining the law of causality. The picture was capped by Bohr’s notion
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+of complementarity , which sought to reconcile contradictor y concepts like waves and particles.
+
+Labeled the Copenhagen Interpretation
+ after Bohr’s decisive in
+fluence, its success (to his mind) led the Danish theorist to characterize quantum mechanics as a rational generalization of classical physics. Not everyone agreed that this was the end point. Indeed, Einstein, Schrödinger, and others were never reconciled. Even Bohr, Heisenberg, and Pauli expected further changes—though in a new domain, the quantum theory of fields, which took quantum mechanics to a higher degree of complexity. But their expectations of fundamental transformation in the 1930 s and beyond, characterized by analogies to the old quantum theory, found little resonance outside of their circle.
+
+Ironically enough, just as for their 
+anti-Copenhagen colleagues,
+their demand for further rethinking did not make much headway . If the physical meaning of the quantum remained, to some, rather obscure, its practical utility could not be denied. Whatever lessons one took from quantum mechanics, it seemed to work. It not only incorporated gracefully the previous quantum phenomena, but opened the door to all sorts of new applications. Perhaps this kind of success was all one could ask for? In that sense, then, a quarter- century after Planck, the quantum had been built into the foundations of physical theory.
